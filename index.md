@@ -24,6 +24,17 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+**EDUCATION**
+Tongji University, Shanghai, China
+  Doctoral student in transportation engineering, Sep 2013~present, GPA top 5%
+  Supervisor: Prof. Lijun SUN
+Bachelor of Engineering, Sep 2009~Jul 2013, GPA top 2%
+  Majored in Civil Engineering, Sep 2010~Jul 2013 
+  Majored in Environmental Engineering, Sep 2009~Jun 2010
+Massachusetts Institute of Technology, Cambridge, MA, USA
+  Visiting Student, Sep 2016~Sep 2017
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
