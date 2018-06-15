@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 [XiaoqingDAI_resume_201806acdemic_final.pdf
-(http://XiaoqingDai.github.io/edit/master/XiaoqingDAI_resume_201806acdemic_final.pdf)
+(XiaoqingDAI_resume_201806acdemic_final.pdf)
 
 [baidu](https://www.baidu.com/)
 
