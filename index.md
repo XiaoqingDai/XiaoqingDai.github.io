@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[XiaoqingDAI_resume_201806acdemic_final.pdf
-(XiaoqingDAI_resume_201806acdemic_final.pdf)
+[XiaoqingDAI_resume_201806acdemic_final.pdf](XiaoqingDAI_resume_201806acdemic_final.pdf)
 
-(XiaoqingDai.github.io/XiaoqingDAI_resume_201806acdemic_final.pdf)
+[pdfile](XiaoqingDai.github.io/XiaoqingDAI_resume_201806acdemic_final.pdf)
 
 [baidu](https://www.baidu.com/)
 
