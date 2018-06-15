@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [XiaoqingDAI_resume_201806acdemic_final.pdf](XiaoqingDAI_resume_201806acdemic_final.pdf)
 
-[pdfile](XiaoqingDai.github.io/XiaoqingDAI_resume_201806acdemic_final.pdf)
+[pdfile](https://XiaoqingDai.github.io/XiaoqingDAI_resume_201806acdemic_final.pdf)
 
 [baidu](https://www.baidu.com/)
 
