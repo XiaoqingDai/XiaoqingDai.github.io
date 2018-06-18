@@ -11,7 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [baidu](https://www.baidu.com/)
 
 <iframe height=500 width=250 src="https://github.com/XiaoqingDai/XiaoqingDai.github.io/blob/master/e.gif">
-![avatar](e.gif)
+  
+  
+![](e.gif)
 
 ### Markdown
 
