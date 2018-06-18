@@ -1,19 +1,19 @@
-## Welcome to GitHub of Mengmengmeng
+# Welcome to Xiaoqing's blog
 
-You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[toc]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+about me and my research in transportation 
 
-[XiaoqingDAI_resume_201806acdemic_final.pdf](XiaoqingDAI_resume_201806acdemic_final.pdf)
+; You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[pdfile](https://XiaoqingDai.github.io/XiaoqingDAI_resume_201806acdemic_final.pdf)
+// Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[baidu](https://www.baidu.com/)
+You can find my resume here. [XiaoqingDAI's resume](XiaoqingDAI_resume_201806acdemic_final.pdf)
 
-<iframe height=500 width=250 src="https://github.com/XiaoqingDai/XiaoqingDai.github.io/blob/master/e.gif">
+
   
   
-![](e.gif)
+![](heatmap130906.gif)
 
 ### Markdown
 
@@ -34,12 +34,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-[XiaoqingDAI_resume_201806acdemic_final.pdf
-(XiaoqingDAI_resume_201806acdemic_final.pdf)
-
-[baidu](https://www.baidu.com/)
-
 
 **EDUCATION**
 Tongji University, Shanghai, China
@@ -53,12 +47,12 @@ Massachusetts Institute of Technology, Cambridge, MA, USA
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+//For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+// ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoqingDai/XiaoqingDai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+// Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoqingDai/XiaoqingDai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+// ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+// Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
