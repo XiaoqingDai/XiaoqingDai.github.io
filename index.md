@@ -4,10 +4,13 @@
 
 about me and my research in transportation 
 
-[comment]: You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[comment]: 
+You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-// Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+// 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+;
 You can find my resume here. [XiaoqingDAI's resume](XiaoqingDAI_resume_201806acdemic_final.pdf)
 
 
