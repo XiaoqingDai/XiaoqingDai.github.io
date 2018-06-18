@@ -10,6 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [baidu](https://www.baidu.com/)
 
+<iframe height=500 width=250 src="XiaoqingDai.github.io/e.gif">
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
