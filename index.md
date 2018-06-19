@@ -1,6 +1,6 @@
 # Welcome to Xiaoqing's blog
 
-<font face=“Century”> Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.</font>
+<font face="Century"> Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.</font>
 
 This blog presents some of my research. 
 
@@ -9,7 +9,7 @@ You can find the pdf version of my resume here. [XiaoqingDAI's resume](XiaoqingD
 ### Travel demand prediction under non-recurrent situations 
 
 
-<font face=“Century Schoolbook”> The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. </font>
+<font face="Century Schoolbook"> The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. </font>
 
   
 [//]: # ![](heatmap130906.gif)
