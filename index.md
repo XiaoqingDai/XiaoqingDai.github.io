@@ -8,9 +8,9 @@ You can find the pdf version of my resume here. [XiaoqingDAI's resume](XiaoqingD
 
 ### Travel demand prediction under non-recurrent situations 
 
-```
+
 The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. 
-```
+
   
 [//]: # ![](heatmap130906.gif)
 [//]: # Figure. A heatmap of out-station volume of Shanghai metro on a normal day.
@@ -18,16 +18,18 @@ The goal is to predict travel demand under non-recurrent situations based on nor
 ![](heatmap130913.gif)
 Figure. A heatmap of out-station volume of Shanghai metro on a heavy rainy day with disruption in the afternoon.
 
+---
+
 ### Intelligent Transportation System Planning
 
-```
+
 Intelligent transportation system planning based on consideration of smart connected vehicles. The V2I roadside environment design and the coordinated traffic signal control/traffic guidance system design are included.
-```
+
 
 ![](anting_ITS.gif)
 Figure. A scenario of future travel in intelligent transportation system planning.
 
-
+---
 
 
 [//]: # (You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
