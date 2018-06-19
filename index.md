@@ -1,6 +1,6 @@
-# Welcome to Xiaoqing's blog
+# Welcome to Xiaoqing DAI's blog
 
-<font color=green size=5> Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.</font>
+<font face="Century Schoolbook"> Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.</font>
 
 This blog presents some of my research. 
 
