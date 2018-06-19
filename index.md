@@ -25,9 +25,8 @@ Figure. A heatmap of out-station volume of Shanghai metro on a heavy rainy day w
 
 Intelligent transportation system planning based on consideration of smart connected vehicles. The V2I roadside environment design and the coordinated traffic signal control/traffic guidance system design are included.
 
-
-![](anting_ITS.gif)
-Figure. A scenario of future travel in intelligent transportation system planning.
+![](anting_roadmap.png)
+Figure. A roadmap of the planning area.
 
 ---
 
