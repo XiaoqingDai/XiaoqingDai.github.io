@@ -9,7 +9,7 @@ You can find the pdf version of my resume here. [XiaoqingDAI's resume](XiaoqingD
 ### Travel demand prediction under non-recurrent situations 
 
 
-The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. 
+<font face=“Century Schoolbook”> The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. </font>
 
   
 [//]: # ![](heatmap130906.gif)
