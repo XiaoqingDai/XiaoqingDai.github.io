@@ -32,9 +32,7 @@ Figure. A roadmap of the planning area.
 
 ### OD is intereseting, right?
 
-```
-<div>
-<html>
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -198,9 +196,8 @@ Figure. A roadmap of the planning area.
       }
     </script>
   </body>
-</html>
-</div>
-```
+
+
 
 Figure. A chord map of ODs in a metro network.
 
