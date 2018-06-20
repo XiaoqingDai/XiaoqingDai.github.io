@@ -33,14 +33,19 @@ Figure. A roadmap of the planning area.
 
 </div>
 
-
-d3.csv('trade11.csv', function (error, data) { var mpr = chordMpr(data);
+//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+// CREATE MATRIX AND MAP
+//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+d3.csv('javascript1/trade11.csv', function (error, data) { var mpr = chordMpr(data);
 mpr .addValuesToMap('importer1') .addValuesToMap('importer2')
 .setFilter(function (row, a, b) { return (row.importer1 === a.name &&
 row.importer2 === b.name) || (row.importer1 === b.name && row.importer2
 === a.name) }) .setAccessor(function (recs, a, b) { if (\!recs\[0\])
 return 0; return recs\[0\].importer1 === a.name ? +recs\[0\].flow1 :
 +recs\[0\].flow2; }); drawChords(mpr.getMatrix(), mpr.getMap()); });
+//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+// DRAW THE CHORD DIAGRAM
+//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 function drawChords (matrix, mmap) { var w = 980, h = 800, r1 = h / 2,
 r0 = r1 - 110; var fill = d3.scale.ordinal()
 .range(\['\#c7b570','\#c6cdc7','\#335c64','\#768935','\#507282','\#5c4a56','\#aa7455','\#574109','\#837722','\#73342d','\#0a5564','\#9c8f57','\#7895a4','\#4a5456','\#b0a690','\#0a3542',\]);
@@ -57,12 +62,3 @@ svg.selectAll("g.group") .data(chord.groups())
 
 Figure. A chord map of ODs in a metro network.
 
-[//]: # (You can use the [editor on GitHub](https://github.com/XiaoqingDai/XiaoqingDai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
-
-[//]: # (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
-
-[//]: # For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[//]: # Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoqingDai/XiaoqingDai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[//]: # Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
