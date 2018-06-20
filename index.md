@@ -1,6 +1,6 @@
 # Welcome to Xiaoqing DAI's blog
 
-<font face="Century Schoolbook"> Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.</font>
+Xiaoqing's research interests include: travel demand prediction, intelligent transportation systems, big data, behavior modeling and transportation planning.
 
 This blog presents some of my research. 
 
@@ -9,11 +9,8 @@ You can find the pdf version of my resume here. [XiaoqingDAI's resume](XiaoqingD
 ### Travel demand prediction under non-recurrent situations 
 
 
-<font face="Century Schoolbook"> The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. </font>
+The goal is to predict travel demand under non-recurrent situations based on normal historical data. The model has been developed for metro systems. 
 
-  
-[//]: # ![](heatmap130906.gif)
-[//]: # Figure. A heatmap of out-station volume of Shanghai metro on a normal day.
 
 ![](heatmap130913.gif)
 Figure. A heatmap of out-station volume of Shanghai metro on a heavy rainy day with disruption in the afternoon.
@@ -32,9 +29,6 @@ Figure. A roadmap of the planning area.
 
 ### OD is intereseting, right?
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-// CREATE MATRIX AND MAP
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 d3.csv('trade11.csv', function (error, data) { var mpr = chordMpr(data);
 mpr .addValuesToMap('importer1') .addValuesToMap('importer2')
 .setFilter(function (row, a, b) { return (row.importer1 === a.name &&
@@ -42,9 +36,7 @@ row.importer2 === b.name) || (row.importer1 === b.name && row.importer2
 === a.name) }) .setAccessor(function (recs, a, b) { if (!recs\[0\])
 return 0; return recs\[0\].importer1 === a.name ? +recs\[0\].flow1 :
 +recs\[0\].flow2; }); drawChords(mpr.getMatrix(), mpr.getMap()); });
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-// DRAW THE CHORD DIAGRAM
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 function drawChords (matrix, mmap) { var w = 980, h = 800, r1 = h / 2,
 r0 = r1 - 110; var fill = d3.scale.ordinal()
 .range(\['\#c7b570','\#c6cdc7','\#335c64','\#768935','\#507282','\#5c4a56','\#aa7455','\#574109','\#837722','\#73342d','\#0a5564','\#9c8f57','\#7895a4','\#4a5456','\#b0a690','\#0a3542',\]);
