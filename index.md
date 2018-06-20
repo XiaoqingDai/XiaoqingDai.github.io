@@ -29,14 +29,18 @@ Figure. A roadmap of the planning area.
 
 ### OD is intereseting, right?
 
+<div id="tooltip">
+
+</div>
+
+
 d3.csv('trade11.csv', function (error, data) { var mpr = chordMpr(data);
 mpr .addValuesToMap('importer1') .addValuesToMap('importer2')
 .setFilter(function (row, a, b) { return (row.importer1 === a.name &&
 row.importer2 === b.name) || (row.importer1 === b.name && row.importer2
-=== a.name) }) .setAccessor(function (recs, a, b) { if (!recs\[0\])
+=== a.name) }) .setAccessor(function (recs, a, b) { if (\!recs\[0\])
 return 0; return recs\[0\].importer1 === a.name ? +recs\[0\].flow1 :
 +recs\[0\].flow2; }); drawChords(mpr.getMatrix(), mpr.getMap()); });
-
 function drawChords (matrix, mmap) { var w = 980, h = 800, r1 = h / 2,
 r0 = r1 - 110; var fill = d3.scale.ordinal()
 .range(\['\#c7b570','\#c6cdc7','\#335c64','\#768935','\#507282','\#5c4a56','\#aa7455','\#574109','\#837722','\#73342d','\#0a5564','\#9c8f57','\#7895a4','\#4a5456','\#b0a690','\#0a3542',\]);
