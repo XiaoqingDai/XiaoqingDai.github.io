@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -27,7 +26,8 @@
       path.chord {
         fill-opacity: .8;
         stroke: #000;
-        stroke-width: .25px;      }
+        stroke-width: .25px;
+      }
       #circle:hover path.fade {
         display: none;
       }
@@ -41,7 +41,8 @@
     <script>
       //*******************************************************************
       //  CREATE MATRIX AND MAP
-      //*******************************************************************      d3.csv('trade11.csv', function (error, data) {
+      //*******************************************************************
+      d3.csv('trade11.csv', function (error, data) {
         var mpr = chordMpr(data);
 
         mpr
