@@ -29,7 +29,7 @@ Figure. A roadmap of the planning area.
 
 ### OD is intereseting, right?
 
-<div class="main-container" id="main" style="width:490px;height:400px"> <iframe src="https://xiaoqingdai.github.io/javascript1/ODchord.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
+<div class="main-container" id="main" style="width:500px;height:440px"> <iframe src="https://xiaoqingdai.github.io/javascript1/ODchord.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
  
 Figure. A chord map of ODs in a metro network.
 
