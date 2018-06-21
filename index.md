@@ -29,7 +29,7 @@ Figure. A roadmap of the planning area.
 
 ### OD is intereseting, right?
 
-<div class="main-container" id="main" style="width:50%"> <iframe src="https://xiaoqingdai.github.io/javascript1/ODchord.html" width="100%" height="130%" frameborder="0"> 您的浏览器不支持iframe，请升级 </iframe> </div>
+<div class="main-container" id="main" style="width:100%"> <iframe src="https://xiaoqingdai.github.io/javascript1/ODchord.html" width="100%" height="100%" frameborder="0"> 您的浏览器不支持iframe，请升级 </iframe> </div>
 
 ![](javascript1/ODchord.html)
 
