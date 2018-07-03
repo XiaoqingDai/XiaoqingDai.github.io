@@ -33,5 +33,5 @@ Figure. A roadmap of the planning area.
  
 Figure. A chord map of ODs in a metro network.
 
-<div class="main-container" id="main" style="width:480px;height:300px"> <iframe src="https://geohey.com/apps/dataviz/39e7b526c1a841b5bdfcd3bac2ce2cee/share?ak=NWNiN2MzMjFhOGE1NDNlZmE4M2UxOTJiNzU5MzFjOGM" width="100%" scrolling="no"  frameborder="0" height="100%"></iframe> </div>
+<div class="main-container" id="main" style="width:500px;height:400px"> <iframe src="https://geohey.com/apps/dataviz/39e7b526c1a841b5bdfcd3bac2ce2cee/share?ak=NWNiN2MzMjFhOGE1NDNlZmE4M2UxOTJiNzU5MzFjOGM" width="100%" scrolling="no"  frameborder="0" height="100%"></iframe> </div>
 
