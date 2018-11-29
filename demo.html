@@ -4,12 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>国内航线图</title>
+    <title>Origin-Destination Lines</title>
     <link href="https://cache.amap.com/lbs/static/main1119.css" rel="stylesheet">
 </head>
-<body>
+<body onload="startDraw(150)">
     <div id="container" class="container">
-    <div id="floatmenu"><input type="text" value="0" id="textvalue" name="textvalue"><button onclick="startDraw(textvalue.value)">绘制</button><button onclick="cleanDraw()">清除</button><button onclick="autoDraw()">自动绘制</button></div>
+    <div id="floatmenu"><input type="text" value="Try ME! Input a number btw 65~280" id="textvalue" name="textvalue">
+        <button onclick="startDraw(textvalue.value)">Draw</button><button onclick="cleanDraw()">Clean</button>
+        <button onclick="autoDraw()">Auto Draw</button></div>
     <style>
       #floatmenu{
         position: absolute;
