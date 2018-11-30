@@ -38,4 +38,4 @@ The chord map shows ODs in a metro network in Zhengzhou and give some concept on
 
 Try this! Input a number btw 65~282 and click "Draw"!
 It demonstrate the OD lines in metro networks in Shanghai. 
-<div class="main-container" id="main" style="width:500px;height:440px"> <iframe src="https://xiaoqingdai.github.io/demo.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
+<div class="main-container" id="main" style="width:500px;height:440px"> <iframe src="https://xiaoqingdai.github.io/demo_new.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
