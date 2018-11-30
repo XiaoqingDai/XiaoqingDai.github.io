@@ -33,4 +33,8 @@ Figure. A roadmap of the planning area.
  
 Figure. A chord map of ODs in a metro network.
 
+<hr>
+
+Try this! Input a number btw 65~282 and click "Draw"!
+It demonstrate the OD lines in metro networks in Shanghai. 
 <div class="main-container" id="main" style="width:500px;height:440px"> <iframe src="https://xiaoqingdai.github.io/demo.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
