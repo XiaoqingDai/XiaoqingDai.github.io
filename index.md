@@ -27,11 +27,12 @@ Figure. A roadmap of the planning area.
 
 ---
 
-### ODs are interesting.
+### Travel demand analysis.
+The chord map shows ODs in a metro network in Zhengzhou and give some concept on the composition of trips among all metro stations.
 
 <div class="main-container" id="main" style="width:500px;height:440px"> <iframe src="https://xiaoqingdai.github.io/javascript1/ODchord.html" width="100%" scrolling="no"  frameborder="0" height="100%" frameborder="0"></iframe> </div>
  
-Figure. A chord map of ODs in a metro network.
+
 
 <hr>
 
